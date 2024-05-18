@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing C# back-end applications. I also dabble in web development.
 - 🌱 I’m currently learning HTML/CSS/JavaScript/PHP/ReactJS/C#
 - 💞️ I’m looking to collaborate on anything that looks and or sounds interesting to work on and develop my skills with!
-- 📫 How to reach me Email me at "Contact@koiya.dev"
+- 📫 How to reach me Email me at "Koiya.adamse@gmail.com"
 - 😄 Pronouns: They/Them
 - ⚡ (not so) Fun fact: I'm a diabetic.
 
